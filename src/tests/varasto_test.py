@@ -77,4 +77,4 @@ class TestVarasto(unittest.TestCase):
         self.assertAlmostEqual(self.varasto.paljonko_mahtuu(), 4)
 
     def test_tulostus_nayttaa_oikeat_maarat(self):
-        self.assertAlmostEqual(str(self.varasto), "saldo = -1, vielä tilaa 10")
+        self.assertAlmostEqual(str(self.varasto), "saldo = 0, vielä tilaa 10")

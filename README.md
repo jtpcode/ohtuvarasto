@@ -1,3 +1,3 @@
 # ohtuvarasto
 
-![Workflow badge](https://github.com/jtpcode/ohtuvarasto/actions/workflows/CI/badge.svg)
+![Workflow badge](https://github.com/jtpcode/ohtuvarasto/actions/workflows/main.yml/badge.svg)
